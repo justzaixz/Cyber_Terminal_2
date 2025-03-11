@@ -19,7 +19,7 @@ const bootCyberOS = () => {
     }, 2000);
 
     setTimeout(() => {
-    window.location.href = "https://justzaixz.github.io/Cyber_Terminal_2/"; // i'll change this to the next website soon
+    window.location.href = "https://justzaixz.github.io/Cyber_Terminal_3-main-terminal-/"; // i'll change this to the next website soon
     }, 3000);
 };
 
